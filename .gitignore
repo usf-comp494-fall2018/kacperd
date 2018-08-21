@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/HelloWorldApp/obj
+/HelloWorldApp/.vs/HelloWorldApp/v15
+/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.0
+/HelloWorldApp/HelloWorldApp/obj
