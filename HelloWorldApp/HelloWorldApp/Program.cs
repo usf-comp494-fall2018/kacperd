@@ -6,6 +6,7 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
+            //TEST
             Console.WriteLine("Hello from cs lab!");
         }
     }
