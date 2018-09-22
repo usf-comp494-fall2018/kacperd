@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{9F81EC37-BBF5-429C-A64D-7D52989DE884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{36C6CB63-0EFC-4E48-B9A2-813BA7369148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F81EC37-BBF5-429C-A64D-7D52989DE884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F81EC37-BBF5-429C-A64D-7D52989DE884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F81EC37-BBF5-429C-A64D-7D52989DE884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F81EC37-BBF5-429C-A64D-7D52989DE884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C6CB63-0EFC-4E48-B9A2-813BA7369148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C6CB63-0EFC-4E48-B9A2-813BA7369148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C6CB63-0EFC-4E48-B9A2-813BA7369148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C6CB63-0EFC-4E48-B9A2-813BA7369148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2B80A3B-AA9F-433D-971B-418F0EB24B52}
+	EndGlobalSection
+EndGlobal
