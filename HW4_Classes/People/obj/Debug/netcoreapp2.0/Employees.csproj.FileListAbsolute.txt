@@ -1,0 +1,8 @@
+C:\Users\usfdlu\Desktop\Repo2\HW4_Classes\People\bin\Debug\netcoreapp2.0\Employees.deps.json
+C:\Users\usfdlu\Desktop\Repo2\HW4_Classes\People\bin\Debug\netcoreapp2.0\Employees.dll
+C:\Users\usfdlu\Desktop\Repo2\HW4_Classes\People\bin\Debug\netcoreapp2.0\Employees.pdb
+C:\Users\usfdlu\Desktop\Repo2\HW4_Classes\People\obj\Debug\netcoreapp2.0\Employees.csproj.CoreCompileInputs.cache
+C:\Users\usfdlu\Desktop\Repo2\HW4_Classes\People\obj\Debug\netcoreapp2.0\Employees.AssemblyInfoInputs.cache
+C:\Users\usfdlu\Desktop\Repo2\HW4_Classes\People\obj\Debug\netcoreapp2.0\Employees.AssemblyInfo.cs
+C:\Users\usfdlu\Desktop\Repo2\HW4_Classes\People\obj\Debug\netcoreapp2.0\Employees.dll
+C:\Users\usfdlu\Desktop\Repo2\HW4_Classes\People\obj\Debug\netcoreapp2.0\Employees.pdb
