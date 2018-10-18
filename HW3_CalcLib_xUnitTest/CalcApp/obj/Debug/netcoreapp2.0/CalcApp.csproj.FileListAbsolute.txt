@@ -1,0 +1,14 @@
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\bin\Debug\netcoreapp2.0\CalcApp.deps.json
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\bin\Debug\netcoreapp2.0\CalcApp.runtimeconfig.json
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\bin\Debug\netcoreapp2.0\CalcApp.runtimeconfig.dev.json
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\bin\Debug\netcoreapp2.0\CalcApp.dll
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\bin\Debug\netcoreapp2.0\CalcApp.pdb
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\bin\Debug\netcoreapp2.0\CalculatorLib.dll
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\bin\Debug\netcoreapp2.0\CalculatorLib.pdb
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\obj\Debug\netcoreapp2.0\CalcApp.csprojAssemblyReference.cache
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\obj\Debug\netcoreapp2.0\CalcApp.csproj.CoreCompileInputs.cache
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\obj\Debug\netcoreapp2.0\CalcApp.AssemblyInfoInputs.cache
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\obj\Debug\netcoreapp2.0\CalcApp.AssemblyInfo.cs
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\obj\Debug\netcoreapp2.0\CalcApp.csproj.CopyComplete
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\obj\Debug\netcoreapp2.0\CalcApp.dll
+C:\Users\usfdlu\Desktop\REPO\HW3_CalcLib_xUnitTest\CalcApp\obj\Debug\netcoreapp2.0\CalcApp.pdb
