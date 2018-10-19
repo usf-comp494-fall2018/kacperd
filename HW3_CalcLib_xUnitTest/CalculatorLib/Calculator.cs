@@ -43,7 +43,7 @@ namespace CalculatorLib
 
         public double Median(double[] arr)
         {
-            //??? dont fully understand this
+            //??? dont fully understand this sort
             Array.Sort(arr);
             int size = arr.Length;
 

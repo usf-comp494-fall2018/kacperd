@@ -126,5 +126,58 @@ namespace XUnitTestProject1
             Assert.Equal(expected, actual);
         }
 
+        //mean tests
+        [Fact]
+        public void MeanTest_Mean0And1()
+        {
+            // arrange
+            double[] arr = { 0, 1 };
+            double expected = 0.5;
+            var calc = new CalculatorLib.Calculator();
+            // act
+            double actual = calc.Mean(arr);
+            // assert
+            Assert.Equal(expected, actual);
+        }
+
+        [Fact]
+        public void MeanTest_Mean_minus10and10and5()
+        {
+            // arrange
+            double[] arr = { -10, 10 ,3 };
+            double expected = 1;
+            var calc = new CalculatorLib.Calculator();
+            // act
+            double actual = calc.Mean(arr);
+            // assert
+            Assert.Equal(expected, actual);
+        }
+
+        //median tests
+        [Fact]
+        public void MedianTest_Median4And5()
+        {
+            // arrange
+            double[] arr = { 4, 5 };
+            double expected = 4.5;
+            var calc = new CalculatorLib.Calculator();
+            // act
+            double actual = calc.Median(arr);
+            // assert
+            Assert.Equal(expected, actual);
+        }
+
+        [Fact]
+        public void MedianTest_Median1and2and5()
+        {
+            // arrange
+            double[] arr = { 1, 2, 5 };
+            double expected = 2;
+            var calc = new CalculatorLib.Calculator();
+            // act
+            double actual = calc.Median(arr);
+            // assert
+            Assert.Equal(expected, actual);
+        }
     }
 }
