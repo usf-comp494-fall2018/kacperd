@@ -27,12 +27,18 @@ namespace CalculatorLib
             return a/b;
         }
 
+        /*
+        Mean(double[]); finds arithmetic mean of an array of type double
+        pre: array must not be empty
+        parameter(s): array of type double
+        return: double
+        */
         public double Mean(double[] arr)
         {
             double sum = 0;
-            int size;
+            int size = arr.Length;
 
-            size = arr.Length;
+            //summation of all array terms
             foreach (double i in arr)
             {
                 sum = sum + i;
@@ -41,23 +47,27 @@ namespace CalculatorLib
             return sum / size;
         }
 
+        /*
+        Median(double[]); finds median of an array of type double
+        pre: array must not be empty
+        parameter(s): array of type double
+        return: double
+        */
         public double Median(double[] arr)
         {
-            //??? dont fully understand this sort
-            Array.Sort(arr);
             int size = arr.Length;
+            
+            //median is dependent on order
+            Array.Sort(arr); 
 
-            //if arr is even
+            //if array is even, return mean of the two middle terms
             if (size % 2 == 0)
             {
                 return (arr[(size / 2) - 1] + arr[(size / 2)]) / 2;
             }
-            //if arr is odd
+            //if array is odd, return middle element
             else
                 return arr[(size - 1) / 2];
-
-
-
         }
 
     }
